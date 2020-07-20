@@ -1,0 +1,32 @@
+body {
+    background-image: url("gb.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+    background-repeat: no-repeat;
+   }
+.center {
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  .center-quote{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+  @media screen and (max-width: 750px) {
+    body {
+        background-image: url("mob.jpg");
+        background-color: #cccccc;
+        background-size: 100%;
+        background-repeat: no-repeat;
+       }
+    }
