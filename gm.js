@@ -19,7 +19,7 @@ var DBMS='https://meet.google.com/lookup/gbfqg7t7l2';
 var WD='https://meet.google.com/lookup/gesdqszho4';
 var BCS='https://meet.google.com/kvh-xjao-zyf?hs=122&authuser=0';
 var TCS='JKKJK';
-var CN='UIIUIU';
+var CN='https://meet.google.com/lookup/eagi35eb3k';
 
 let full = [
     ['Monday', 'Tuesday','Wednesday','Thursday','Friday'],
