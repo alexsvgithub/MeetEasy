@@ -48,6 +48,6 @@ else{
 current=3;
 }
 
-window.open(full[current][0]);
+window.open(full[current][d.getDay()-1]);
 
 }
