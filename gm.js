@@ -34,14 +34,14 @@ var d = new Date();
 var time=d.toLocaleString('en-US', { hour: 'numeric', hour12: true });
 
 var current;
-if(time=10){
+if(time===10 AM){
     current=1
 }
 
-else if(time=11){
+else if(time===11 AM){
 current=2;
 }
-else if(time=2){
+else if(time===2 PM){
 current=3;
 }
 else{
