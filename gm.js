@@ -34,18 +34,18 @@ var d = new Date();
 var time=d.toLocaleString('en-US', { hour: 'numeric', hour12: true });
 
 var current;
-if(time==0){
-    current=0
+if(time==10){
+    current=1
 }
 
-else if(time==1){
-current=1;
-}
-else if(time==2){
+else if(time==11){
 current=2;
 }
-else{
+else if(time==2){
 current=3;
+}
+else{
+current=4;
 }
 
 window.open(full[current][d.getDay()-1]);
