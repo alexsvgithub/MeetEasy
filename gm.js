@@ -18,7 +18,7 @@ var AA='https://meet.google.com/lookup/hc4s2gyauq';
 var DBMS='https://meet.google.com/lookup/gbfqg7t7l2';
 var WD='https://meet.google.com/lookup/gesdqszho4';
 var BCS='https://meet.google.com/kvh-xjao-zyf?hs=122&authuser=0';
-var TCS='JKKJK';
+var TCS='https://meet.google.com/lookup/h3aa4wlmiz';
 var CN='https://meet.google.com/lookup/eagi35eb3k';
 
 let full = [
